@@ -10,4 +10,4 @@ phases:
     commands:
       - python lambda_function.py
 artifacts:
-  files: your_lambda_deployment_script.py
+  files: lambda_function.py
